@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Thanks to Qazi and Sonny for the livestream on how to build the amazon clone using react. This code is mostly built based on the YouTube livestream on CleverProgrammer channel.
 
 ## Available Scripts
 
